@@ -1,0 +1,102 @@
+.background{
+    background-image: url("images/camera3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.background2{
+    background-color: #efefef;
+}
+.background3{
+    background-color: #efefef;
+}
+
+.background4{
+    background-image: url("images/clean-cascade-scenery-green-shore-tourism.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    
+}
+.background5{
+    background-image: url("images/vertical-shot-some-beautiful-trees-sun-setting-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    
+}
+.background6{
+    background-image: url("images/erawan-waterfall-tier-3-national-park-kanchanaburi-thailand.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    
+}
+.background7{
+    background-color: black;
+}
+body{
+    /* margin: 0; */
+    /* padding: 0; */
+}
+/* .background8{
+    background-image: url("images/photo9.jpg");
+    object-fit: fill;
+    
+}
+.background9{
+    background-image: url("images/photo10.jpg");
+   object-fit: cover;
+}
+.background10{
+    background-image: url("images/photo11.jpg");
+    
+    object-fit: cover;
+} */
+.wordspacing{
+    /* letter-spacing: 1em; */
+}
+.background12{
+    background-image: url("images/photo12.jpg");
+    /* height: 100%; */
+    
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-size: cover;
+    /* filter: blur(1px); */
+    
+}
+.bg-text{
+     color:black;
+     font-weight: bold;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.video{
+ /* margin: 0%; */
+ padding: 0%;
+ overflow-x: hidden;
+ height: 100vh;
+}
+.map{
+    /* margin: 0%; */
+    padding: 0%;
+    overflow-x: hidden;
+    height: 100vh;
+   }
+   .container-fluid14{
+    background-color: #767676;
+    overflow-x: hidden;
+   }
+   .container-fluid17{
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+    
+   }
+  .no-gutters{
+    padding: 0%;
+    margin: 0%;
+  }
